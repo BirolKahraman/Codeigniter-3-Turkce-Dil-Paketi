@@ -1,31 +1,13 @@
-Python Extension for Accessing Video Devices
+Codeigniter 3 Türkçe Dil Paketi
 ============================================
 
-Some tricks using opencv and python tkinter interface. 
-A very little parts of code may be copied from other public sources, I don't remember from where.
-
-VideoCapture is a Python extension for Win32 which makes it possible to access video-capture devices (TV-Card, USB, AV GRABBER, Webcam). It consists of a low-level native module (vidcap.pyd) and a high-level module written in Python (pyvidcap.py) which should be used solely.
-
+System/laguage/ dizinine kopyalayınız daha sonra default config.php 'den default $config['language'] = "turkish" yapmanız yeterli
+daha fazla bilgi ve detaylar için http://birolkahraman.com adresini ziyaret ediniz.
 ## example
-```python
-from pyvidcap import Device
-stream = Device()
-stream.saveSnapshot('image.jpg')
-```
-is PYQT
-```python
-from pyvidcap import Device
-stream = Device()
-buffer, width, height = self.getBuffer()
-qimg = QtGui.QImage.fromData(buffer)
-pixmap = QtGui.QPixmap.fromImage(qimg)
-```
- 
+System/laguage/ dizinine kopyalayınız daha sonra default config.php 'den default $config['language'] = "turkish" yapmanız yeterli
 
 ## requirements
 
-python 3x
-pillow module
-vidcap module
+Codeigniter 3 Framework
 
 
