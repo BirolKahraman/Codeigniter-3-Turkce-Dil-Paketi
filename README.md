@@ -1,13 +1,15 @@
-Codeigniter 3 Türkçe Dil Paketi
+Codeigniter 2 Türkçe Dil Paketi
 ============================================
 
-System/laguage/ dizinine kopyalayınız daha sonra default config.php 'den default $config['language'] = "turkish" yapmanız yeterli
-daha fazla bilgi ve detaylar için http://birolkahraman.com adresini ziyaret ediniz.
+Birol Kahraman'ın (https://github.com/BirolKahraman/Codeigniter-3-Turkce-Dil-Paketi) çevirdiği Codeigniter 3 dil soyalarının Codeigniter 2'ye uyarlanmış halidir. Artık oldukça geride kalan bir sürüm olsada bazı projelerinizde lazım olabilir.
+
+System/laguage/ dizinine kopyalayınız daha sonra default config.php 'den default $config['language'] = "turkish" yapmanız yeterli.
+
 ## example
 System/laguage/ dizinine kopyalayınız daha sonra default config.php 'den default $config['language'] = "turkish" yapmanız yeterli
 
 ## requirements
 
-Codeigniter 3 Framework
+Codeigniter 2 Framework
 
 
